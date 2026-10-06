@@ -1,9 +1,9 @@
 {
   "product": "CarlMod-Exiled",
   "installer": "CarlMod-Exiled.Installer.exe",
-  "builtAtUtc": "2026-10-06T04:40:18.9640802Z",
+  "builtAtUtc": "2026-10-06T04:45:12.0697007Z",
   "length": 77217719,
-  "sha256": "1D99AD90040E36DBA4B3ED6FAC235178E445F561D9F462DDDFA5BA56861B83DB",
+  "sha256": "919ED601743E412410E97B6B6CD15F78F97C6866F56FA54F1AB1472B31F6173E",
   "targetFramework": "net8.0-windows",
   "runtime": "win-x64 self-contained",
   "appData": "%APPDATA%\\CarlMod-EXILED",

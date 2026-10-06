@@ -172,7 +172,7 @@ public sealed class Plugin : Plugin<Config>
 {
     public override string Name => "{{name}}";
     public override string Author => "CarlMod-Exiled developer";
-    public override Version Version => new(1, 0, 0);
+    public override System.Version Version => new(1, 0, 0);
 
     public override void OnEnabled()
     {

@@ -33,7 +33,7 @@ public sealed class Plugin : Plugin<Config>
 {
     public override string Name => "$name";
     public override string Author => "CarlMod-Exiled developer";
-    public override Version Version => new(1, 0, 0);
+    public override System.Version Version => new(1, 0, 0);
     public override void OnEnabled() { Exiled.Events.Handlers.Player.Verified += OnVerified; base.OnEnabled(); }
     public override void OnDisabled() { Exiled.Events.Handlers.Player.Verified -= OnVerified; base.OnDisabled(); }
     private void OnVerified(VerifiedEventArgs ev) => Log.Info($"$name loaded player {ev.Player.Nickname}.");
