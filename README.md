@@ -2,6 +2,14 @@
 
 这是面向 Carl Mod（游戏版本 12.0.1）的 EXILED 部署与源码归档。
 
+## GitHub Release
+
+最新公开发布：[CarlMod-Exiled v1.0.0](https://github.com/yeeAM-Exiled/CarlMod-Exiled/releases/tag/v1.0.0)
+
+- [CarlMod-Exiled.Installer.exe](https://github.com/yeeAM-Exiled/CarlMod-Exiled/releases/download/v1.0.0/CarlMod-Exiled.Installer.exe)
+- [CarlMod-Exiled-source.zip](https://github.com/yeeAM-Exiled/CarlMod-Exiled/releases/download/v1.0.0/CarlMod-Exiled-source.zip)
+- [CarlMod-Exiled-deployment-full.zip](https://github.com/yeeAM-Exiled/CarlMod-Exiled/releases/download/v1.0.0/CarlMod-Exiled-deployment-full.zip)
+
 ## 目录
 
 - `source/`：从原始 `output.no-proxies.dll` 导出的 C# 维护快照。
