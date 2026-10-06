@@ -5,6 +5,7 @@ installer/payload/
 installer/payload-stage/
 installer/installer-publish/
 compiled/installer-publish/
+compiled/CarlMod-Exiled-*.zip
 docs/installer-test/
 
 # The full Carl Mod server is a local deployment image. It contains files
