@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Carlfrellett</AssemblyName>
+    <RootNamespace>Carlfrellett</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <OutputPath>bin\</OutputPath>
+    <GameManaged Condition="'$(GameManaged)' == ''">..\..\004vser_完整服务端_2026-10-04(1)\004vser\Carl Mod_Data\Managed</GameManaged>
+    <ExiledRoot Condition="'$(ExiledRoot)' == ''">..\deployment\CarlMod-AppData\Plugins</ExiledRoot>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\source\**\*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Exiled.API" HintPath="$(ExiledRoot)\dependencies\Exiled.API.dll" Private="false" />
+    <Reference Include="Exiled.Events" HintPath="$(ExiledRoot)\Exiled.Events.dll" Private="false" />
+    <Reference Include="Exiled.Permissions" HintPath="$(ExiledRoot)\dependencies\Exiled.Permissions.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(ExiledRoot)\dependencies\0Harmony.dll" Private="false" />
+    <Reference Include="YamlDotNet" HintPath="$(ExiledRoot)\dependencies\YamlDotNet.dll" Private="false" />
+    <Reference Include="Newtonsoft.Json" HintPath="$(ExiledRoot)\dependencies\Newtonsoft.Json.dll" Private="false" />
+    <Reference Include="Assembly-CSharp" HintPath="$(GameManaged)\Assembly-CSharp.dll" Private="false" />
+    <Reference Include="Assembly-CSharp-firstpass" HintPath="$(GameManaged)\Assembly-CSharp-firstpass.dll" Private="false" />
+  </ItemGroup>
+</Project>

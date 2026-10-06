@@ -1,0 +1,46 @@
+﻿{
+    "generatedAt":  "2026-10-06T04:25:03.3962291Z",
+    "assembly":  {
+                     "name":  "Carlfrellett",
+                     "version":  "2.1.0.0",
+                     "sha256":  "D6A423AC5100E01AB2F12109BD173AFC92BC5B521EE447F70764CCC006E72835",
+                     "length":  381952,
+                     "referencedAssemblies":  [
+                                                  "0Harmony, Version=2.2.2.0, Culture=neutral, PublicKeyToken=null",
+                                                  "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "CommandSystem.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "Exiled.API, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "Exiled.CustomRoles, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "Exiled.Events, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "Mirror, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                                                  "Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed",
+                                                  "NVorbis, Version=0.10.5.0, Culture=neutral, PublicKeyToken=null",
+                                                  "RueI, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null",
+                                                  "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                                                  "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                                                  "System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                                                  "System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+                                                  "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+                                              ]
+                 },
+    "source":  {
+                   "csharpFiles":  107,
+                   "totalFiles":  109
+               },
+    "deployment":  {
+                       "serverFiles":  315,
+                       "serverBytes":  640500631,
+                       "appDataFiles":  25,
+                       "appDataBytes":  7749765,
+                       "loaderConfig":  "# Carl Mod EXILED Loader configuration\nis_enabled: true\ndebug: false\nshould_load_outdated_exiled: false\nshould_load_outdated_plugins: true\n# Install-CarlMod.ps1 rewrites this path for another machine.\nexiled_directory_path: C:\\Users\\admin\\AppData\\Roaming\\CarlMod-EXILED\nenvironment: Production\nconfig_type: Default",
+                       "pluginConfigFiles":  8
+                   },
+    "appData":  {
+                    "path":  "C:\\Users\\admin\\AppData\\Roaming\\CarlMod-EXILED",
+                    "exists":  true,
+                    "pluginExists":  true,
+                    "configExists":  true
+                }
+}

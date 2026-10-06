@@ -1,0 +1,9 @@
+# Carl Mod EXILED Loader configuration
+is_enabled: true
+debug: false
+should_load_outdated_exiled: false
+should_load_outdated_plugins: true
+# Replaced by Install-CarlMod.ps1 with %APPDATA%\\CarlMod-EXILED
+exiled_directory_path: __CARLMOD_APPDATA__
+environment: Production
+config_type: Default

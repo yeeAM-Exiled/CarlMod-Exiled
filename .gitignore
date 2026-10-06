@@ -1,0 +1,19 @@
+# Build and test output
+installer/bin/
+installer/obj/
+installer/payload/
+installer/payload-stage/
+installer/installer-publish/
+compiled/installer-publish/
+docs/installer-test/
+
+# The full Carl Mod server is a local deployment image. It contains files
+# larger than GitHub's normal repository limit; publish it as a release asset.
+deployment/Carl Mod Server/
+
+# Local editor and OS files
+.vs/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini

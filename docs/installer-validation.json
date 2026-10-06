@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "appData": "D:\\00000000\\codex\\YRJQ-AC-1.8.1\\EXILED-6.1.0-rc.1\\EXILED-CarlMod\\docs\\installer-test\\appdata",
+  "serverRoot": "D:\\00000000\\codex\\YRJQ-AC-1.8.1\\EXILED-6.1.0-rc.1\\EXILED-CarlMod\\docs\\installer-test\\server",
+  "appDataFileCount": 26,
+  "pluginSha256": "D6A423AC5100E01AB2F12109BD173AFC92BC5B521EE447F70764CCC006E72835",
+  "loaderPath": "D:\\00000000\\codex\\YRJQ-AC-1.8.1\\EXILED-6.1.0-rc.1\\EXILED-CarlMod\\docs\\installer-test\\server\\Exiled\\Configs\\loader.yml"
+}

@@ -1,0 +1,11 @@
+{
+  "product": "CarlMod-Exiled",
+  "installer": "CarlMod-Exiled.Installer.exe",
+  "builtAtUtc": "2026-10-06T04:40:18.9640802Z",
+  "length": 77217719,
+  "sha256": "1D99AD90040E36DBA4B3ED6FAC235178E445F561D9F462DDDFA5BA56861B83DB",
+  "targetFramework": "net8.0-windows",
+  "runtime": "win-x64 self-contained",
+  "appData": "%APPDATA%\\CarlMod-EXILED",
+  "exiledCompatibility": "EXILED 6.0.0 / SCP:SL 12.0.1"
+}

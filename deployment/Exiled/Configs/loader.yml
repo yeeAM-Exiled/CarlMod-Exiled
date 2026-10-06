@@ -1,0 +1,9 @@
+# Carl Mod EXILED Loader configuration
+is_enabled: true
+debug: false
+should_load_outdated_exiled: false
+should_load_outdated_plugins: true
+# Install-CarlMod.ps1 rewrites this path for another machine.
+exiled_directory_path: C:\Users\admin\AppData\Roaming\CarlMod-EXILED
+environment: Production
+config_type: Default

@@ -1,0 +1,16 @@
+{
+  "name": "Carl Mod EXILED",
+  "gameVersion": "12.0.1",
+  "exiledLoaderVersion": "6.0.0",
+  "pluginAssembly": "Carlfrellett",
+  "pluginVersion": "2.1.0.0",
+  "runtimeReportedVersion": "2.0.5",
+  "pluginDisplayName": "The Bird's Song",
+  "appDataDirectoryName": "CarlMod-EXILED",
+  "appDataRelativePath": "%APPDATA%\\CarlMod-EXILED",
+  "loaderConfigTemplate": "build/loader.yml.template",
+  "sourceSnapshot": "source",
+  "compiledArtifact": "compiled/Carlfrellett.dll",
+  "sourceIsRebuildable": false,
+  "sourceRebuildabilityReason": "The decompiler reports malformed control flow in ExperienceSystem.Enable; the original validated assembly is retained as the runtime artifact."
+}
