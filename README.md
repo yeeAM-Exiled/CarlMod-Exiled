@@ -1,6 +1,6 @@
-# Carl Mod EXILED 6.1.0-rc.1
+# Carl Mod EXILED 0.0.5
 
-这是面向 Carl Mod（游戏版本 12.0.1）的 EXILED 部署与源码归档。
+这是面向 Carl Mod（游戏版本 0.0.5）的 EXILED 部署与源码归档。
 
 ## GitHub Release
 
@@ -54,5 +54,3 @@
 - Carl Mod 游戏服务端 12.0.1
 - EXILED Loader 6.0.0（本归档来自工作区内的 Exiled12.0.1）
 - .NET Framework 4.8 / Mono 运行环境由游戏服务端提供
-
-目录名 `EXILED-6.1.0-rc.1` 是用户指定的归档路径；运行时版本以 Carl 原始插件的 6.0.0 引用和已验证日志为准。
